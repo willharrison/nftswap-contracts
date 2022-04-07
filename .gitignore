@@ -1,0 +1,12 @@
+node_modules
+.env
+deploy-output.json
+bin-output
+
+# Hardhat files
+cache
+artifacts
+
+# Code coverage
+coverage
+coverage.json
